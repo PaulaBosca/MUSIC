@@ -1,3 +1,5 @@
+Forked from https://bitbucket.org/ohahn/music/src/master/. 
+
 MUSIC - multi-scale cosmological initial conditions
 ===================================================
 
